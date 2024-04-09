@@ -21,7 +21,7 @@
 - <img align= "left" alt="Git" width = "50px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 - <img align = "left" alt="Spring" width = "50px" src = "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
 
----
+<br>
 
 <h4> Conecte-se comigo 🤝: <h4>
   </hr>
