@@ -10,7 +10,7 @@ Estou atualmente me graduando em Análise e Desenvolvimento de Sistemas, Meu obj
 - <img align= "left" alt="JAVA" width= "50px" src= "https://www.vectorlogo.zone/logos/java/java-horizontal.svg" />
 - <img align = "left" alt="MySQL" width= "50px" src= "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 - <img align= "left" alt="Git" width = "40px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-- <img align = "left" alt="Spring" width = "50px" src = "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
+- <img align = "left" alt="Spring" width = "40px" src = "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
 
 
 
