@@ -1,4 +1,4 @@
-# Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou o José Francisco.
+# 👋 Olá, Eu sou o José Francisco.
 Estou atualmente me graduando em Análise e Desenvolvimento de Sistemas, Meu objetivo é me tornar um desenvolvedor back-end, com foco na linguagem de programação Java.
 
 ## Sobre mim 🧑:
