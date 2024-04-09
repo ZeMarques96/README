@@ -16,7 +16,7 @@
 
 <h3>Tecnologias e ferramentas: ⚡ </h3>
 
-- <img align= "left" alt="JAVA" width= "24px" src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+- <img align= "left" alt="JAVA" width= "24px" src= "https://www.vectorlogo.zone/logos/java/java-horizontal.svg" />
 - <img align = "left" alt="MySQL" width= "24px" src= "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 - <img align= "left" alt="Git" width = "24px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 - <img align = "left" alt="Spring" width = "24px" src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
