@@ -16,10 +16,10 @@
 
 <h3>Tecnologias e ferramentas: ⚡ </h3>
 
-- <img align= "left" width= "24px" src= "https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" />
-- <img align = "left" width= "24px" src= "https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" />
-- <img align= "left" width = "24px" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-icon.svg" />
-- <img align = "left" width = "24px" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-icon.svg" />
+- <img align= "left" alt="JAVA" width= "24px" src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+- <img align = "left" alt="MySQL" width= "24px" src= "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+- <img align= "left" alt="Git" width = "24px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+- <img align = "left" alt="Spring" width = "24px" src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 ---
 
 <h4> Conecte-se comigo 🤝: <h4>
