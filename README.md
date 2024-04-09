@@ -1,8 +1,8 @@
-<h1 align="center">Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou o José Francisco</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou o José Francisco, sejam muito bem-vindos ao meu perfil.</h1>
 
 <p align="center">
   <em>
-    Estou me graduando em <b>Análise e Desenvolvimento de Sistemas</b>, Meu objetivo é me tornar um desenvolvedor <b>back-end</b>&nbsp;, com foco na linguagem de programação <b>Java</b>.  
+    Estou atualmente me graduando em <b>Análise e Desenvolvimento de Sistemas</b>, Meu objetivo é me tornar um desenvolvedor <b>back-end</b>&nbsp;, com foco na linguagem de programação <b>Java</b>.  
   <br>
   
 </p>
