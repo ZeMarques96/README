@@ -9,7 +9,7 @@ Estou atualmente me graduando em Análise e Desenvolvimento de Sistemas, Meu obj
 ## Tecnologias e ferramentas ⚡:
 - <img align="left" alt="JAVA" width="50px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 - <img align="left" alt="MySQL" width="50px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-- <img align="left" alt="Git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+- <img align="left" alt="Git" width="50px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 - <img align="left" alt="Spring" width="50px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
 
