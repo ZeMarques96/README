@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou o José Francisco, sejam muito bem-vindos ao meu perfil.</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou o José Francisco.</h1>
 
 <p align="center">
   <em>
@@ -14,6 +14,12 @@
 - 👯 Tenho facilidade em conhecer pessoas e fazer amizades.
 <br>
 
+<h3>Tecnologias e ferramentas: ⚡ </h3>
+
+- <img align= "left" width= "24px" src= "https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" />
+- <img align = "left" width= "24px" src= "https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" />
+- <img align= "left" width = "24px" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-icon.svg" />
+- <img align = "left" width = "24px" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-icon.svg" />
 ---
 
 <h4> Conecte-se comigo 🤝: <h4>
