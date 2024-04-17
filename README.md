@@ -7,10 +7,19 @@ Estou atualmente me graduando em Análise e Desenvolvimento de Sistemas, Meu obj
 - 👯 Tenho facilidade em conhecer pessoas e fazer amizades.
 
 ## Tecnologias e ferramentas ⚡:
-- <img align= "left" alt="JAVA" width= "40px" src= "https://www.vectorlogo.zone/logos/java/java-horizontal.svg" /> <br>
-- <img align = "left" alt="MySQL" width= "40px" src= "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> <br>
-- <img align= "left" alt="Git" width = "40px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" /> <br>
-- <img align = "left" alt="Spring" width = "40px" src = "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/> <br>
+
+- ![JAVA](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
+- ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
+- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
+- ![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)
+- ![Hibernate](https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg)
+- ![Apache Maven](https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg)
+- ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
+- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)
+- ![Apache Tomcat](https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg)
+
+
+
 
 
 
