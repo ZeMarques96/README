@@ -8,22 +8,20 @@ Estou atualmente me graduando em Análise e Desenvolvimento de Sistemas, Meu obj
 
 ## Tecnologias e ferramentas ⚡:
 
-![JAVA](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) <br>
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)
-![Hibernate](https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg)
-![Apache Maven](https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg) <br>
-![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)
-![Apache Tomcat](https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg)
-
-
-
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
 ### Conecte-se comigo 🤝:
+
 <a href="https://www.linkedin.com/in/josé-francisco-marques-neto-67383622b/">
  <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
